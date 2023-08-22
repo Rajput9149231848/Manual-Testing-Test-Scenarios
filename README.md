@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rana</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=747DF8D95E85CE2CC04F281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=animated+coding+gif&simid=607995081345363948&FORM=IRPRST&ck=E1845CDFC81102F61EF20CC425518278&selectedIndex=9">
+<img align="right"alt="coding"width="400"src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput9149231848&label=Profile%20views&color=0e75b6&style=flat" alt="rajput9149231848" /> </p>
 
