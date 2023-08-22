@@ -1,0 +1,33 @@
+*Test Cases for Whiteboard.
+
+1.Verify that the dimension of the whiteboard is as per the specifications.
+
+2.Verify the exact color of the board – white color variant.
+
+3.Verify the smoothness of the whiteboard.
+
+4.Verify the material used to develop the surface of the whiteboard
+
+5.Verify the material used in the body of the whiteboard, its hooks, and other parts.
+
+6.Verify if the board is suitable for writing with normal/specified marker types.
+
+7.Verify if there is sufficient friction in the board to allow writing on its surface.
+
+8.Verify if text written on the board using normal markers gets erased using a duster.
+
+9.Check if there is a holder for markers and a duster on the whiteboard.
+
+10.Verify that the board works normally in all climatic conditions- humidity, temperatures, etc.
+
+11.Verify that the board doesn’t reflect too much light which makes it unreadable.
+
+12.Verify the amount of pressure required to write on the board using normal markers.
+
+13.Verify that markers of all colors but white should be visible on the board.
+
+14.Verify that text written on the board should not fade away quickly(or before a specified time).
+
+15.Verify that the board has hooks to hang them over the wall.
+
+16.Verify if text written using permanent markers, paints, etc can be erased on the board using chemicals.

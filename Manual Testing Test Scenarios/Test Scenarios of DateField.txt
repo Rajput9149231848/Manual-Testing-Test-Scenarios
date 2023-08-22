@@ -1,0 +1,39 @@
+*Test Cases for Date field or Calendar Widget.
+
+.Positive Test Cases for Date Field:-
+1.Verify that on clicking the date field, a calendar widget should open.
+
+2.Verify that the default width of the calendar should be displayed as per the specification.
+
+3.Verify that the calendar widget’s dimensions should be responsive as per the device and screen size.
+
+4.Verify that the user can select a date in the calendar and after selecting the date the same gets displayed in the date field.
+
+5.Verify that by default the current month’s calendar should be displayed.
+
+6.Verify that the user can move to the previous and next month’s calendars by choosing the left and right icons over the calendar.
+
+7.Verify that the user can check the calendar of a particular month of any year.
+
+8.Verify that the user can enter a date manually on the date following the date format.
+
+9.Verify the date format supported by the calendar.
+
+10.Verify that the user can also edit a date that is already set in the calendar.
+
+11.Verify that values other than numerics should not be allowed in the date field .
+
+12.Verify that invalid dates are not allowed in the date field.
+
+13.Verify the oldest possible date that can be set on the calendar.
+
+14.Verify the last possible date that can be set on the calendar.
+
+.Negative Test Cases for Date Field:-
+1.Verify the state of the calendar widget on entering special characters, either the special characters should not be allowed and in the case allowed, they should get discarded while setting a date.
+
+2.Verify the state of the calendar widget on entering foreign language characters on the editable date field.
+
+3.Check the UI of the calendar widget on extremely small and extremely large screen sizes.
+
+

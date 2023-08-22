@@ -1,0 +1,17 @@
+*Test Scenarios of GMail.
+
+1.Verify that a newly received email is displayed as highlighted in the Inbox section.
+2.Verify that a newly received email has correctly displayed sender email Id or name, mail subject and mail body(trimmed to a single line).
+3.Verify that on clicking the newly received email, the user is navigated to email content.
+4.Verify that the email contents are correctly displayed with the desired source formatting.
+5.Verify that any attachments are attached to the email and are downloadable.
+6.Verify that the attachments are scanned for viruses before download.
+7.Verify that all the emails marked as read are not highlighted.
+8.Verify that all the emails read as well as unread have a mail read time appended at the end on the email list displayed in the inbox section.
+9.Verify that count of unread emails is displayed alongside ‘Inbox’ text in the left sidebar of Gmail.
+10.Verify that unread email count increases by one on receiving a new email.
+11.Verify that unread email count decreases by one on reading an email ( marking an email as read).
+12.Verify that email recipients in cc are visible to all users.
+13.Verify that email recipients in bcc are not visible to the user.
+14.Verify that all received emails get piled up in the ‘Inbox’ section and get deleted in cyclic fashion based on the size availability.
+15.Verify that email can be received from non-Gmail email Ids like – yahoo, Hotmail etc.
