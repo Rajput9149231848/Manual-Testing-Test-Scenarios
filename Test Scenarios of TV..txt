@@ -1,0 +1,14 @@
+*Test Scenarios for TV.
+
+1.Verify the dimensions of the TV – length, breadth, and height are as per the specifications
+2.Check the TV technology type – LED, LCD, etc.
+3.Verify that the screen resolution of the TV is as per the specifications.
+4.Check the material used for the outer body of the TV.
+5.Check the material used for the screen of the TV.
+6.Verify that on supplying the specified power supply, the TV gets switched on after pressing the ‘Power’ button.
+7.Verify that all the buttons on the TV perform their functioning correctly.
+8.Verify that the TV screen clearly displays videos.
+9.Verify that the audio of the TV is audible without any noise.
+10.Verify that buttons on the TV have clearly visible labels indicating their functionality.
+11.Verify that buttons in the TV function correctly when pressed.
+12.Verify that the remote’s signal receiver receives a signal within a specified range.

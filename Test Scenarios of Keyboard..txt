@@ -1,0 +1,31 @@
+*Test Scenarios of Keyboard.
+
+1.Check if all the keys- characters, numeric, function, special characters, and arrow keys are present.
+
+2.Verify the ordering of the keys is as per the QWERTY standard.
+
+3.Check the functioning of each type of key-characters, numeric, function, special characters, and arrow keys.
+
+4.Verify the working of the keys that work in combination like- shift+{other keys}.
+
+5.Check if the dimension of the key is as per the specification.
+
+6.Check the color of both keyboard body as well as the text written over the buttons.
+
+7.Check if the font type and size is as per the specification and legible.
+
+8.Check if the pressure required to press a key is not too high.
+
+9.Check the spacing between two keys, keys should not be congested and at the same time not too widely placed.
+
+10.Verify that in case of caps lock and other similar keys- an indicator light glows.
+
+11.Check if keys don’t make too much noise when clicked.
+
+12.Verify if the keyboard is a wireless or wired keyboard.
+
+13.In case the keyboard is wireless, verify the range of keyboard.
+
+14.In case of a wired keyboard, check the length of the keyboard.
+
+15.Verify if the keyboard contains multimedia functions as well.

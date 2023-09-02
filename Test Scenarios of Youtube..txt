@@ -1,0 +1,12 @@
+*Test Cases for Youtube.
+
+1.Verify that the user can upload a single video of the allowed format and size successfully.
+2.Verify that while uploading user should select the video license and type of video along with its attributes like- name, artist name, company, etc.
+3.Verify the maximum size of video that is permitted to upload and check that any attempt to upload a video of size greater than the allowed value results in an error message.
+4.Verify if there is any minimum size of video that is permitted to upload and any attempt to upload a file size less than specified results in the error message.
+5.Verify all the video formats that are allowed to upload – .mp4, .3gp, .avi, etc and check that uploading file formats other than allowed results in the error message.
+6.Verify that uploading a blank file should result in the error message.
+7.Verify that the user can upload multiple videos of the allowed format and size successfully.
+8.Verify that uploaders get notifications of comments posted on the videos uploaded by them.
+9.Verify that users can view likes, dislikes, and comments for their videos.
+10.Verify that users can reply to the comments posted in their videos.

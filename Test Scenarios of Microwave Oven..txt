@@ -1,0 +1,22 @@
+*Test Scenarios for Microwave Oven.
+
+1.Verify that the dimensions of the oven are as per the specification provided.
+2.Verify that the oven’s material is optimal for its use as an oven and as per the specification.
+3.Verify that the oven heats the food at the desired temperature properly.
+4.Verify that the oven heats food at the desired temperature within a specified time duration.
+5.Verify the ovens functioning with the maximum attainable temperature.
+6.Verify the ovens functioning with minimum attainable temperature.
+7.Verify that the oven’s plate rotation speed is optimal and not too high to spill the food kept over it.
+8.Verify that the oven’s door gets closed properly.
+9.Verify that the oven’s door opens smoothly.
+10.Verify the battery requirement of the microwave oven and check that it function’s smoothly at that power.
+11.Verify that the text written over the oven’s body is clearly readable.
+12.Verify that the digital display is clearly visible and functions correctly.
+13.Verify that the temperature regulator is smooth to operate.
+14.Verify that the temperature regulator works correctly.
+15.Check the maximum capacity of the oven and test its functioning with that volume of food.
+16.Check the oven’s functionality with different kinds of food – solid, and liquid.
+17.Check the oven’s functionality with different food at different temperatures.
+18.Verify the oven’s functionality with different kinds of container material.
+19.Verify that the power cord of the oven is long enough.
+20.Verify that the usage instruction or user manuals have clear instructions.

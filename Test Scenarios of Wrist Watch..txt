@@ -1,0 +1,22 @@
+*Test cases for a Wrist Watch.
+
+1.Verify the type of watch – analog or digital.
+2.In the case of an analog watch, check the correctness time displayed by the second, minute, and hour hand of the watch.
+3.In the case of a digital watch, check the digital display for hours, minutes, and seconds is correctly displayed.
+4.Verify the material of the watch and its strap.
+5.Check if the shape of the dial is as per specification.
+6.Verify the dimension of the watch is as per the specification.
+7.Verify the weight of the watch.
+8.Check if the watch is waterproof or not.
+9.Verify that the numbers in the dial are clearly visible or not.
+10.Check if the watch is having a date and day display or not.
+11.Verify the color of the text displayed in the watch – time, day, date, and other information.
+12.Verify that clock’s time can be corrected using the key in case of an analog clock and buttons in case of a digital clock.
+13.Check if the second hand of the watch makes ticking sound or not.
+14.Verify if the brand of the watch and check if its visible in the dial.
+15.Check if the clock is having stopwatch, timers, and alarm functionality or not.
+16.In the case of a digital watch, verify the format of the watch 12 hours or 24 hours.
+17.Verify if the watch comes with any guarantee or warranty.
+18.Verify if the dial has glass covering or plastic, check if the material is breakable or not.
+19.Verify if the dial’s glass/plastic is resistant to minor scratches or not.
+20.Check the battery requirement of the watch.
